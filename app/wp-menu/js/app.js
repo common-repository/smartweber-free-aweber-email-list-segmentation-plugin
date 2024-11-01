@@ -1,0 +1,1 @@
+var SmartWeber = new Marionette.Application();
